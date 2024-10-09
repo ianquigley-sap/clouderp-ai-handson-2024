@@ -6,6 +6,14 @@ In this exercise, we will describe how the Fiori tool AI Generator can inspect o
 
 ## Exercise 4.1 Using the other sample images
 
-Expand the **samples** folder and you should see 3 images available to you.
+Expand the **samples** folder and you should see 3 images available to you.  Click on an image to examine the contents.
 
 ![image](ex4img1.png)
+
+**aircraft_sticky_notes.png**
+
+This image demonstrates how the Fiori tools AI is able to determine from a list of sticky notes, what kind of application is required.  It will analyse the text and try deliver the correct application from that.
+
+![image](ex4img2.png)
+
+
