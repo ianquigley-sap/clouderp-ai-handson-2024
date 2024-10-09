@@ -10,7 +10,7 @@ In the explorer in SAP Business Application Studio, expand the **transport-reque
 
 ![image](ex3img1.png)
 
-You should then see a document that includes a mixture of text and images.  This document will detail what should be in the list page of your application, and also what should be in the object page that gets displayed when a user selects an item from the list
+You should then see a document that includes a mixture of text and images.  This document contains a images from a classic transaction app and details what each of the sections in the object page should contain with a mixture of screenshots and text.
 
 ![image](ex3img2.png)
 
