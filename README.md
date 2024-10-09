@@ -36,3 +36,6 @@ There are no special requirements to follow the exercises in this repository.
   - [Exercise 3.1 Uploading the business requirement document with images](exercises/ex3#exercise-31-uploading-the-business-requirement-document-with-images)
   - [Exercise 3.2 Reviewing the generate application from a business requirement document with images](exercises/ex3#exercise-32-reviewing-the-generate-application-from-a-business-requirement-document-with-images)
 
+- [Exercise 4 - Other sample images for generation](exercises/ex4#exercise-4---other-sample-images-for-generation)
+  - [Exercise 4.1 Using the other sample images](exercises/ex4#exercise-41-using-the-other-sample-images)
+  - [Exercise 4.2 Use your own images/sketches](exercises/ex4#exercise-42-use-your-own-imagessketches)
