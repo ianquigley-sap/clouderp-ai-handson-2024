@@ -10,7 +10,7 @@ Expand the **samples** folder and you should see 3 images available to you.  Cli
 
 ![image](ex4img1.png)
 
-**aircraft_sticky_notes.png**
+- **aircraft_sticky_notes.png**
 
 This image demonstrates how the Fiori tools AI is able to determine from a list of sticky notes, what kind of application is required.  It will analyse the text and try deliver the correct application from that.
 
