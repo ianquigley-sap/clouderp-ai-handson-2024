@@ -6,21 +6,21 @@ In this exercise, we will create an **SAP Cloud Application Programing** (CAP) P
 
 In the **SAP Business Application Studio**, the **projects** folder should be open from the last exercise.  Click on the **SAP Fiori** icon in the left hand side panel.
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/8b3bca55-4602-4c5a-a30f-c48708e4a54a)
+![image](ex2img1.png)
 
 **Note:** If you cannot see the **SAP Fiori** icon, you may have to select the three dots and expand the menu to choose it:
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/fdfebf44-e7d4-430c-83aa-0b50c797baf2)
+![image](ex2img2.png)
 
 The **SAP Fiori** panel launch, you can close the **Application Modeler** and **Information** sections, and keep the **Automated Generator** section open
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/4a9cb62a-8bfd-4183-8d97-34fafb6f8140)
+![image](ex2img3.png)
 
 ## Exercise 1.2 Providing a business requirements document to the Generator
 
 The sample document below details a business requirement to build an application for create and manage contracts and customers.
 
-Click on the copy icon ![image](https://github.wdf.sap.corp/storage/user/1340/files/1ee5b0a9-9078-4ebe-8603-feb36f716cc6) to copy the text to the clipboard.
+Click on the copy icon ![image](ex2img4.png) to copy the text to the clipboard.
 
 
 ```
@@ -83,46 +83,46 @@ End Date         Contract Data    Contract Details
 
 Paste the text from the clipboard into the **Application Requirements** text box. The **Generate** button should then become enabled
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/4bca618f-da6d-4a71-bbab-70403e8081be)
+![image](ex2img5.png)
 
 Click on the **Generate** button to start generating your application
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/3113204b-46b0-4285-9511-a7cd6801f6be)
+![image](ex2img6.png)
 
 The application will start generating and go through each of the steps.
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/f27e3a6a-2ddc-478a-b389-1de5877be31c)
+![image](ex2img7.png)
 
 
 ## Exercise 1.3 Reviewing the generated application
 
 When generation of the application completes, the **staging area** will launch.  Click on a file in the staging area and it will load in the main window for you to review.
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/fc81503d-1b82-484b-861e-950d94789338)
+![image](ex2img8.png)
 
 Click on the **Preview** button.  
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/810d234e-60fe-4f86-bfeb-8740d8d74f48)
+![image](ex2img9.png)
 
 A new browser tab should launch with the generated application.  Click between **Customers** (1) and **Contracts** (2) to see the different data tables.
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/9f5ca290-e06d-4f4e-b44b-dcba934ca9fe)
+![image](ex2img10.png)
 
 ## Exercise 1.4 Accepting the generated application
 
 In the SAP Fiori panel in SAP Business Application Studio, click **Accept** to accept the project into your workspace
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/6e50571e-a807-49ae-90c0-0f9e5f3826d5)
+![image](ex2img11.png)
 
 Click on the **Explorer** icon in the side panel and you will see that you now have a new **CAP project** with an **SAP Fiori elements** application. The project folder will be called **ai-created-app**.
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/9b0a435a-65f0-4b90-818e-68381fb73db1)
+![image](ex2img12.png)
 
 ## Exercise 1.3 Providing your own business requirements for generation.
 
 Open the **SAP Fiori** panel again
 
-![image](https://github.wdf.sap.corp/storage/user/1340/files/8b3bca55-4602-4c5a-a30f-c48708e4a54a)
+![image](ex2img13.png)
 
 This time, use your imagination to provide a business requirement document from which you would like to create an SAP Fiori application.  
 
