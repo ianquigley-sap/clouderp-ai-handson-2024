@@ -10,7 +10,7 @@ In the explorer in SAP Business Application Studio, expand the **transport-reque
 
 ![image](ex3img1.png)
 
-You should then see a document that includes a mixture of text and images.  This document contains a images from a classic transaction app and details what each of the sections in the object page should contain with a mixture of screenshots and text.
+You should then see a document that includes a mixture of text and images.  This document contains images from a classic transaction app and details what each of the sections in the object page should contain with a mixture of screenshots and text.
 
 ![image](ex3img2.png)
 
