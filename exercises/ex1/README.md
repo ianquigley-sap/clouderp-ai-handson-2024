@@ -18,7 +18,7 @@ The **SAP Fiori** panel launch, you can close the **Application Modeler** and **
 
 ## Exercise 1.2 Providing a business requirements document to the Generator
 
-The sample document below details a business requirement to build an application for create and manage contracts and customers.
+The sample document below details a business requirement to build an application for creating and managing contracts and customers.
 
 Click on the copy icon ![image](ex1img4.png) to copy the text to the clipboard.
 
