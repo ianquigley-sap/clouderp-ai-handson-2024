@@ -22,4 +22,8 @@ This image shows how the Fiori tools AI can interpret the ideas from a brain sto
 
 ![image](ex4img3.png)
 
+- **manage_purchase_orders.png**
 
+This image represents a handwritten sketch with somewhat messy handwriting.  The Fiori tools AI should still be able to analyse this image and detect the relevant columns and filters for the generated application
+
+![image](ex4img4.png)
