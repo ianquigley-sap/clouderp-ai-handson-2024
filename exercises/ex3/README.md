@@ -26,7 +26,7 @@ Click into the **classical_transaction** folder
 
 ![image](ex3img5.png)
 
-Select the **requirement0.md** file
+Select the **multi_image_old_ui.md** file
 
 ![image](ex3img6.png)
 
