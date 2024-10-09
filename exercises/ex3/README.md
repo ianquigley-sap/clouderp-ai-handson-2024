@@ -53,7 +53,7 @@ Select an item from the list and the object page should display with the details
 
 Navigate back to the tab with SAP Business Application Studio, and click **Accept** to include this project into your workspace
 
-![image](ex3img12.png)
+![image](ex3img12-2.png)
 
 Click on the **Explorer** icon and you should have another new folder for the project, this time entitled **ai-generated-cap-1**
 
