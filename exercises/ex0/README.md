@@ -20,7 +20,7 @@ In the lower right corner of the page press button **Create Dev Space**.
 
 ![Confirm](ex0img3.png)
 
-Once your development space has status running, click on the development space name to open it.
+Once your development space has status running, click on the development space name to open it.  This can take some time.
 
 ![Enter Dev Space](ex0img4.png)
 
