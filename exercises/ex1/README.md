@@ -6,21 +6,21 @@ In this exercise, we will create an **SAP Cloud Application Programing** (CAP) P
 
 In the **SAP Business Application Studio**, the **projects** folder should be open from the last exercise.  Click on the **SAP Fiori** icon in the left hand side panel.
 
-![image](ex2img1.png)
+![image](ex1img1.png)
 
 **Note:** If you cannot see the **SAP Fiori** icon, you may have to select the three dots and expand the menu to choose it:
 
-![image](ex2img2.png)
+![image](ex1img2.png)
 
 The **SAP Fiori** panel launch, you can close the **Application Modeler** and **Information** sections, and keep the **Automated Generator** section open
 
-![image](ex2img3.png)
+![image](ex1img3.png)
 
 ## Exercise 1.2 Providing a business requirements document to the Generator
 
 The sample document below details a business requirement to build an application for create and manage contracts and customers.
 
-Click on the copy icon ![image](ex2img4.png) to copy the text to the clipboard.
+Click on the copy icon ![image](ex1img4.png) to copy the text to the clipboard.
 
 
 ```
@@ -83,36 +83,36 @@ End Date         Contract Data    Contract Details
 
 Paste the text from the clipboard into the **Application Requirements** text box. The **Generate** button should then become enabled
 
-![image](ex2img5.png)
+![image](ex1img5.png)
 
 Click on the **Generate** button to start generating your application
 
-![image](ex2img6.png)
+![image](ex1img6.png)
 
 The application will start generating and go through each of the steps.
 
-![image](ex2img7.png)
+![image](ex1img7.png)
 
 
 ## Exercise 1.3 Reviewing the generated application
 
 When generation of the application completes, the **staging area** will launch.  Click on a file in the staging area and it will load in the main window for you to review.
 
-![image](ex2img8.png)
+![image](ex1img8.png)
 
 Click on the **Preview** button.  
 
-![image](ex2img9.png)
+![image](ex1img9.png)
 
 A new browser tab should launch with the generated application.  Click between **Customers** (1) and **Contracts** (2) to see the different data tables.
 
-![image](ex2img10.png)
+![image](ex1img10.png)
 
 ## Exercise 1.4 Accepting the generated application
 
 In the SAP Fiori panel in SAP Business Application Studio, click **Accept** to accept the project into your workspace
 
-![image](ex2img11.png)
+![image](ex1img11.png)
 
 Click on the **Explorer** icon in the side panel and you will see that you now have a new **CAP project** with an **SAP Fiori elements** application. The project folder will be called **ai-created-app**.
 
@@ -122,7 +122,7 @@ Click on the **Explorer** icon in the side panel and you will see that you now h
 
 Open the **SAP Fiori** panel again
 
-![image](ex2img13.png)
+![image](ex1img13.png)
 
 This time, use your imagination to provide a business requirement document from which you would like to create an SAP Fiori application.  
 
