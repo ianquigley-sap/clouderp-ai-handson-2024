@@ -16,4 +16,10 @@ This image demonstrates how the Fiori tools AI is able to determine from a list 
 
 ![image](ex4img2.png)
 
+- **hand_sketch.png**
+
+This image shows how the Fiori tools AI can interpret the ideas from a brain storming session and determine the best application that should be developed.
+
+![image](ex4img3.png)
+
 
