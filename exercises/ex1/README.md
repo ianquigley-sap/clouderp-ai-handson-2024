@@ -89,7 +89,7 @@ Click on the **Generate** button to start generating your application
 
 ![image](ex1img6.png)
 
-The application will start generating and go through each of the steps.
+The application will start generating and go through each of the steps.  This can take some time.
 
 ![image](ex1img7.png)
 
