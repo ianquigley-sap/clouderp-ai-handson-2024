@@ -39,7 +39,7 @@ Click on the **Load file** link
 
 Select the **countries.jpg** file and click **OK**
 
-![image](ex2img7.png)
+![image](ex2img72.png)
 
 A thumbnail of the image should appear in the input box.  Click **Generate** to start generate the application directly from the image.
 
