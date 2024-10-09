@@ -44,8 +44,7 @@ You may see a message in the terminal stating that the port is already in use (f
 
 ![image](ex3img9.png)
 
-A new browser tab should open with the generated application.  Click on the **Go** button to display the items
-
+A new browser tab should open with the generated application. 
 ![image](ex3img10.png)
 
 Select an item from the list and the object page should display with the details:
