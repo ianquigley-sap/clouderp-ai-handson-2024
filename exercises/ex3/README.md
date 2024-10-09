@@ -22,7 +22,7 @@ Click on the **Load file** link
 
 ![image](ex3img4.png)
 
-Click into the **transport-request-distribution** folder
+Click into the **classical_transaction** folder
 
 ![image](ex3img5.png)
 
