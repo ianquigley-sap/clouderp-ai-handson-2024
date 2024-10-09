@@ -116,7 +116,7 @@ In the SAP Fiori panel in SAP Business Application Studio, click **Accept** to a
 
 Click on the **Explorer** icon in the side panel and you will see that you now have a new **CAP project** with an **SAP Fiori elements** application. The project folder will be called **ai-created-app**.
 
-![image](ex2img12.png)
+![image](ex1img12.png)
 
 ## Exercise 1.3 Providing your own business requirements for generation.
 
