@@ -1,6 +1,6 @@
-#  Exercise 2 - Generate an SAP Fiori elements application from an image
+#  Exercise 2 - Generate an SAP Fiori app from an image
 
-In this exercise, we will create a number of **SAP Fiori elements** applications, but instead of using a text document as input, we will instead use images of the applications that we want to create.
+In this exercise, we will create a number of SAP Fiori apps, but instead of using a text document as input, we will instead use images of the applications that we want to create.
 
 ## Exercise 2.1 Downloading the sample images into SAP Business Application Studio
 
@@ -67,12 +67,12 @@ Navigate back to the tab with SAP Business Application Studio, and click **Accep
 
 ![image](ex2img13.png)
 
-Click on the **Explorer** icon and you should have a new folder for the project entitled **ai-generated-cap**
+Click on the **Explorer** icon and you should have a new folder for the project entitled **ai-created-cap**
 
 ![image](ex2img14.png)
 
 ## Summary
 
-You've now successfully generated a SAP Fiori elements application using an sketch of the application you'd like to generate
+You've now successfully generated a SAP Fiori app using a sketch of the application you'd like to generate
 
-Continue to - [Exercise 3 - Generate an SAP Fiori elements application using images and text](../ex3/README.md)
+Continue to - [Exercise 3 - Generate an SAP Fiori app using images and text](../ex3/README.md)

@@ -1,7 +1,7 @@
 #  Exercise 4 - Other sample images for generation
 
 
-In this exercise, we will describe how the Fiori tool AI Generator can inspect other forms of image, from notes on a whiteboard to sticky notes, and it will try its best to generate the correct **SAP Fiori elements** application.
+In this exercise, we will describe how the Fiori tool AI Generator can inspect other forms of image, from notes on a whiteboard to sticky notes, and it will try its best to generate the correct **SAP Fiori** app.
 
 
 ## Exercise 4.1 Using the other sample images
@@ -30,7 +30,7 @@ This image represents a handwritten sketch with somewhat messy handwriting.  The
 
 ## Exercise 4.2 Use your own images/sketches
 
-Now it's your turn! On a piece of paper, sketch out the application you would like to generate.  Try and ensure that it represents a tabular list of items, as that best fits the supported SAP Fiori elements templates.  Take a photo and then upload it to your PC.  From there, you can drag it into the folder in SAP Business Application Studio and generate an application from it.
+Now it's your turn! On a piece of paper, sketch out the application you would like to generate.  Try and ensure that it represents a tabular list of items, as that best fits the supported floorplans provided by SAP Fiori elements for OData V4.  Take a photo and then upload it to your PC.  From there, you can drag it into the folder in SAP Business Application Studio and generate an application from it.
 
 ## Summary
 

@@ -87,7 +87,4 @@ With the setup procedure done, you now have completed:
 - Creation of your development space
 - Enabling of the SAP Fiori tools AI features
 
-Continue to - [Exercise 1 - Generate an SAP Fiori elements application from business requirements](../ex1/README.md)
-
-
-
+Continue to - [Exercise 1 - Generate an SAP Fiori app from business requirements](../ex1/README.md)
