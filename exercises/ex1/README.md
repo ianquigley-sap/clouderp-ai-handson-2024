@@ -1,6 +1,6 @@
-#  Exercise 1 - Generate an SAP Fiori elements application from business requirements
+#  Exercise 1 - Generate an SAP Fiori app from business requirements
 
-In this exercise, we will create an **SAP Cloud Application Programing** (CAP) Project with an **SAP Fiori elements** application using a floorplan for OData V4.  The application will be automatically generated from a business requirements document that you will provide.
+In this exercise, we will create an **SAP Cloud Application Programing** (CAP) project together with an SAP Fiori app using a floorplan provided by SAP Fiori elements for OData V4. The project will be automatically generated from a business requirements document that you will provide.
 
 ## Exercise 1.1 Launching the SAP Fiori tools AI Automated Generator
 
@@ -35,7 +35,6 @@ Customer Description
 Contract: A Contract involves defining a structured representation of a legal agreement or arrangement between two or more parties. 
 Contracts can cover a wide range of agreements, such as sales contracts, service agreements, employment contracts, and more. 
 Common attributes of a contract might include:
-Contract ID: A unique identifier for the contract.
 1. Contract ID: A unique identifier for the contract.
 2. Customer: Information about the customer involved
 3. Contract Type: The type of contract (e.g. sales, service, employment).
@@ -114,7 +113,7 @@ In the SAP Fiori panel in SAP Business Application Studio, click **Accept** to a
 
 ![image](ex1img11.png)
 
-Click on the **Explorer** icon in the side panel and you will see that you now have a new **CAP project** with an **SAP Fiori elements** application. The project folder will be called **ai-created-app**.
+Click on the **Explorer** icon in the side panel and you will see that you now have a new **CAP project** with an **SAP Fiori** app. The project folder will be called **ai-created-app**.
 
 ![image](ex1img12.png)
 
@@ -124,7 +123,7 @@ Open the **SAP Fiori** panel again
 
 ![image](ex1img13.png)
 
-This time, use your imagination to provide a business requirement document from which you would like to create an SAP Fiori application.  
+This time, use your imagination to provide a business requirement document from which you would like to create an SAP Fiori app.  
 
 Some examples:
 
@@ -138,6 +137,6 @@ Create an app that I can use for my pet grooming bookings
 
 ## Summary
 
-You've now successfully generated a SAP Fiori elements application using business requirements as input to the AI generator.
+You've now successfully generated a SAP Fiori app using business requirements as input to the AI generator.
 
-Continue to - [Exercise 2 - Generate an SAP Fiori elements application from an image](../ex2/README.md)
+Continue to - [Exercise 2 - Generate an SAP Fiori app from an image](../ex2/README.md)

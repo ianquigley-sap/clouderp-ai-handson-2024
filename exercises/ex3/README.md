@@ -1,12 +1,12 @@
-#  Exercise 3 - Generate an SAP Fiori elements application using images and text
+#  Exercise 3 - Generate an SAP Fiori app using images and text
 
 
-In this exercise, we will create an **SAP Fiori elements** application using a document that contains both text and images, so that the required application can be best described.
+In this exercise, we will create an **SAP Fiori** application using a document that contains both text and images, so that the required application can be best described.
 
 
 ## Exercise 3.1 Uploading the business requirement document with images
 
-In the explorer in SAP Business Application Studio, expand the **transport-request-distribution** folder and right click on the **requirement0.md** file (1).  Then click on the **Open Preview** link (2).
+In the explorer in SAP Business Application Studio, expand the **classical_transaction** folder and right click on the **multi_image_old_ui.md** file (1).  Then click on the **Open Preview** link (2).
 
 ![image](ex3img1.png)
 
@@ -55,12 +55,12 @@ Navigate back to the tab with SAP Business Application Studio, and click **Accep
 
 ![image](ex3img12-2.png)
 
-Click on the **Explorer** icon and you should have another new folder for the project, this time entitled **ai-generated-cap-1**
+Click on the **Explorer** icon and you should have another new folder for the project, this time entitled **ai-created-cap-1**
 
 ![image](ex3img13.png)
 
 ## Summary
 
-In this exercise you have seen how the Fiori AI generator can use both text and images to create detailed **SAP Fiori elements** applications.
+In this exercise you have seen how the Fiori AI generator can use both text and images to create detailed **SAP Fiori** apps.
 
 Continue to - [Exercise 4 - Other sample images for Generation](../ex4/README.md)
