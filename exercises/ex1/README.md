@@ -117,7 +117,7 @@ Click on the **Explorer** icon in the side panel and you will see that you now h
 
 ![image](ex1img12.png)
 
-## Exercise 1.3 Providing your own business requirements for generation.
+## Exercise 1.5 Providing your own business requirements for generation.
 
 Open the **SAP Fiori** panel again
 
