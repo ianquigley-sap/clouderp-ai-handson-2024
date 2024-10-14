@@ -55,7 +55,7 @@ After generation, click on the **Preview** button to launch a preview of the gen
 
 ![image](ex2img10.png)
 
-You may see a message in the terminal stating that the port is already in use (from previewing our application from exercise 1), click **Return** to use any other port for preview
+You may see a message in the terminal stating that the port is already in use (from previewing our application from exercise 1), click **Return/Enter** to use any other port for preview
 
 ![image](ex2img11.png)
 
