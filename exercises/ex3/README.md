@@ -40,7 +40,7 @@ After generation completes, click on the **Preview** button to launch a preview 
 
 ![image](ex3img8.png)
 
-You may see a message in the terminal stating that the port is already in use (from previewing our application from the last exercise), click **Return** to use any other port for preview
+You may see a message in the terminal stating that the port is already in use (from previewing our application from the last exercise), click **Return/Enter** to use any other port for preview
 
 ![image](ex3img9.png)
 
